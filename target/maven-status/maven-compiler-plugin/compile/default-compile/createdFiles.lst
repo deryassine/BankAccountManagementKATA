@@ -1,0 +1,4 @@
+com/societegenerale/kata/KataApplication.class
+com/societegenerale/kata/entities/Transaction.class
+com/societegenerale/kata/controllers/TransactionController.class
+com/societegenerale/kata/services/TransactionsManagementService.class
